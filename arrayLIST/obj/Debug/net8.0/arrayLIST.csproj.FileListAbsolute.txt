@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\arrayLIST\bin\Debug\net8.0\arrayLIST.exe
+C:\vs npogpamu\-1\arrayLIST\bin\Debug\net8.0\arrayLIST.deps.json
+C:\vs npogpamu\-1\arrayLIST\bin\Debug\net8.0\arrayLIST.runtimeconfig.json
+C:\vs npogpamu\-1\arrayLIST\bin\Debug\net8.0\arrayLIST.dll
+C:\vs npogpamu\-1\arrayLIST\bin\Debug\net8.0\arrayLIST.pdb
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.AssemblyInfo.cs
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.sourcelink.json
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.dll
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\refint\arrayLIST.dll
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.pdb
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\arrayLIST.genruntimeconfig.cache
+C:\vs npogpamu\-1\arrayLIST\obj\Debug\net8.0\ref\arrayLIST.dll
