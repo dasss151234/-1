@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\ForIfElseVwHe\bin\Debug\net8.0\ForIfElseVwHe.exe
+C:\vs npogpamu\-1\ForIfElseVwHe\bin\Debug\net8.0\ForIfElseVwHe.deps.json
+C:\vs npogpamu\-1\ForIfElseVwHe\bin\Debug\net8.0\ForIfElseVwHe.runtimeconfig.json
+C:\vs npogpamu\-1\ForIfElseVwHe\bin\Debug\net8.0\ForIfElseVwHe.dll
+C:\vs npogpamu\-1\ForIfElseVwHe\bin\Debug\net8.0\ForIfElseVwHe.pdb
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.AssemblyInfo.cs
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.sourcelink.json
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.dll
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\refint\ForIfElseVwHe.dll
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.pdb
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ForIfElseVwHe.genruntimeconfig.cache
+C:\vs npogpamu\-1\ForIfElseVwHe\obj\Debug\net8.0\ref\ForIfElseVwHe.dll
