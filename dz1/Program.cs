@@ -74,7 +74,7 @@ namespace dz1
                 Console.WriteLine(tovaru[i]);
             }
             
-            8
+            //8
             List<string> numbers = new List<string>();
             numbers.Add("1");
             numbers.Add("2");
@@ -86,9 +86,9 @@ namespace dz1
             numbers.Add("8");
             numbers.Add("9");
             numbers.Add("10");
-            for (int i = 0; i < numbers.Count; i++)
+            for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine($"{numbers[i]} ");
+                Console.WriteLine(i+1);
             }
             
             //9
