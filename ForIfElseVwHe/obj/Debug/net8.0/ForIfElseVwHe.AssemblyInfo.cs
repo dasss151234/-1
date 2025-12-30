@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForIfElseVwHe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d82c3a70a5c09a1fdb1c8dc4fce0d36bb63466")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae1cc90bcc2b38eda37ebba7670b712270efe9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForIfElseVwHe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForIfElseVwHe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

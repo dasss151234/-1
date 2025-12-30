@@ -14,6 +14,7 @@
             {
                 a = Console.ReadLine();
                 b = int.Parse(a);
+
                 hp = hp - b;
                 Console.WriteLine(hp);
             }

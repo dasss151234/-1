@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\whiletest\bin\Debug\net8.0\whiletest.exe
+C:\vs npogpamu\-1\whiletest\bin\Debug\net8.0\whiletest.deps.json
+C:\vs npogpamu\-1\whiletest\bin\Debug\net8.0\whiletest.runtimeconfig.json
+C:\vs npogpamu\-1\whiletest\bin\Debug\net8.0\whiletest.dll
+C:\vs npogpamu\-1\whiletest\bin\Debug\net8.0\whiletest.pdb
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.AssemblyInfo.cs
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.sourcelink.json
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.dll
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\refint\whiletest.dll
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.pdb
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\whiletest.genruntimeconfig.cache
+C:\vs npogpamu\-1\whiletest\obj\Debug\net8.0\ref\whiletest.dll
