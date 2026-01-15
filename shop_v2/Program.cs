@@ -141,6 +141,43 @@ namespace shop_v2
                         Console.WriteLine("Не хватает золота! Иди в сраку!!!");
                     }
                 }
+                if (cmd == 'i')
+                {
+                    Console.WriteLine("\nВот твой инвентарь:");
+                    if (inventory.Count == 0)
+                    {
+                        Console.WriteLine("ПУСТО:( ОЧЕНЬ ЖАЛЬ");
+                        Console.Beep();
+                    }
+                    else
+                    {
+                        for (int i = 0; i < inventory.Count; i++)
+                        {
+                            Console.WriteLine($"{inventory[i]}");
+                        }
+                    }
+                }
+                if (cmd == 's')
+                {
+                    if (inventory.Count == 0)
+                    {
+                        Console.WriteLine("Нечего продавать — инвентарь пуст!:(");
+                        Console.Beep();
+                    }
+                    else
+                    {
+                        string itemToSell = inventory[0];
+                        inventory.RemoveAt(0);
+                        double sellPrice = 3.0;
+                        gold += sellPrice;
+                        Console.WriteLine($"Ты продал: {itemToSell} за {sellPrice:F1} золота");
+                        Console.WriteLine($"Теперь у тебя: {gold:F1} золота");
+                    }
+                }
+                if (cmd == 'q')
+                {
+                    shopOPEN = false;
+                }
             }
             //-----------------------------------------------------------------------------------------------------------------------------
 
