@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\ifellstest\bin\Debug\net8.0\ifellstest.exe
+C:\vs npogpamu\-1\ifellstest\bin\Debug\net8.0\ifellstest.deps.json
+C:\vs npogpamu\-1\ifellstest\bin\Debug\net8.0\ifellstest.runtimeconfig.json
+C:\vs npogpamu\-1\ifellstest\bin\Debug\net8.0\ifellstest.dll
+C:\vs npogpamu\-1\ifellstest\bin\Debug\net8.0\ifellstest.pdb
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.AssemblyInfo.cs
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.sourcelink.json
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.dll
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\refint\ifellstest.dll
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.pdb
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ifellstest.genruntimeconfig.cache
+C:\vs npogpamu\-1\ifellstest\obj\Debug\net8.0\ref\ifellstest.dll
