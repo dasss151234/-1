@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\shop_v2\\",
+  "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\AI67\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF5D3D77-3B2B-43ED-87E8-91F838311584}|shop_v2.csproj|c:\\vs npogpamu\\-1\\shop_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5D3D77-3B2B-43ED-87E8-91F838311584}|shop_v2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E90ED1A-6639-4FD8-ABED-A3121CEAE598}|AI67.csproj|c:\\vs npogpamu\\-1\\ai67\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E90ED1A-6639-4FD8-ABED-A3121CEAE598}|AI67.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\vs npogpamu\\-1\\shop_v2\\Program.cs",
+              "DocumentMoniker": "C:\\vs npogpamu\\-1\\AI67\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\vs npogpamu\\-1\\shop_v2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAUwM8AAAAMAAAA",
+              "ToolTip": "C:\\vs npogpamu\\-1\\AI67\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T16:49:33.902Z",
+              "WhenOpened": "2026-01-20T17:15:10.919Z",
               "EditorCaption": ""
             }
           ]

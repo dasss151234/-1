@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\AI67\bin\Debug\net8.0\AI67.exe
+C:\vs npogpamu\-1\AI67\bin\Debug\net8.0\AI67.deps.json
+C:\vs npogpamu\-1\AI67\bin\Debug\net8.0\AI67.runtimeconfig.json
+C:\vs npogpamu\-1\AI67\bin\Debug\net8.0\AI67.dll
+C:\vs npogpamu\-1\AI67\bin\Debug\net8.0\AI67.pdb
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.AssemblyInfo.cs
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.sourcelink.json
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.dll
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\refint\AI67.dll
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.pdb
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\AI67.genruntimeconfig.cache
+C:\vs npogpamu\-1\AI67\obj\Debug\net8.0\ref\AI67.dll
