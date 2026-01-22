@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\FIND\bin\Debug\net8.0\FIND.exe
+C:\vs npogpamu\-1\FIND\bin\Debug\net8.0\FIND.deps.json
+C:\vs npogpamu\-1\FIND\bin\Debug\net8.0\FIND.runtimeconfig.json
+C:\vs npogpamu\-1\FIND\bin\Debug\net8.0\FIND.dll
+C:\vs npogpamu\-1\FIND\bin\Debug\net8.0\FIND.pdb
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.AssemblyInfo.cs
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.sourcelink.json
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.dll
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\refint\FIND.dll
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.pdb
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\FIND.genruntimeconfig.cache
+C:\vs npogpamu\-1\FIND\obj\Debug\net8.0\ref\FIND.dll
