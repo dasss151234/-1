@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\functiontest\bin\Debug\net8.0\functiontest.exe
+C:\vs npogpamu\-1\functiontest\bin\Debug\net8.0\functiontest.deps.json
+C:\vs npogpamu\-1\functiontest\bin\Debug\net8.0\functiontest.runtimeconfig.json
+C:\vs npogpamu\-1\functiontest\bin\Debug\net8.0\functiontest.dll
+C:\vs npogpamu\-1\functiontest\bin\Debug\net8.0\functiontest.pdb
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.AssemblyInfo.cs
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.sourcelink.json
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.dll
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\refint\functiontest.dll
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.pdb
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\functiontest.genruntimeconfig.cache
+C:\vs npogpamu\-1\functiontest\obj\Debug\net8.0\ref\functiontest.dll
