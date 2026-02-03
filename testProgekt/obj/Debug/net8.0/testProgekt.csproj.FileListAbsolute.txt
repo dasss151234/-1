@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\testProgekt\bin\Debug\net8.0\testProgekt.exe
+C:\vs npogpamu\-1\testProgekt\bin\Debug\net8.0\testProgekt.deps.json
+C:\vs npogpamu\-1\testProgekt\bin\Debug\net8.0\testProgekt.runtimeconfig.json
+C:\vs npogpamu\-1\testProgekt\bin\Debug\net8.0\testProgekt.dll
+C:\vs npogpamu\-1\testProgekt\bin\Debug\net8.0\testProgekt.pdb
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.AssemblyInfo.cs
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.sourcelink.json
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.dll
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\refint\testProgekt.dll
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.pdb
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\testProgekt.genruntimeconfig.cache
+C:\vs npogpamu\-1\testProgekt\obj\Debug\net8.0\ref\testProgekt.dll
