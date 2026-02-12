@@ -13,7 +13,7 @@ namespace functiontest
         static void Main(string[] args)
         {
             Console.Write("Веди свой ник:");
-            string playerName = Console.ReadLine();
+            string playerName = Console.ReadLine();//😆хай😝
             Console.WriteLine(MeAttack());
             
             for (int i = 0; i < EnemyRandom(); i++) 
@@ -25,19 +25,26 @@ namespace functiontest
                     Console.WriteLine($"Урон по демагоргону: {dmg}");
                     EnemyHealth -= dmg;
                     Console.WriteLine($"У демогоргона осталос хр: {EnemyHealth}");
-                    string action = AttackEnemy(EnemyHealth);
-                    Console.WriteLine($"Демагоргон решил: {action}");
-                    if ( action == "Attack" )
+                    if (EnemyHealth > 0)
                     {
-                        int EnemyDmg = GetRandom() ;
-                        Console.WriteLine($"Урон по {playerName} : {EnemyDmg}");
-                        Health -= EnemyDmg;
-                        Console.WriteLine($"У {playerName} осталось {Health}");
+                        string action = AttackEnemy(EnemyHealth);
+                        Console.WriteLine($"Демагоргон решил: {action}");
+                        if (action == "Attack")
+                        {
+                            int EnemyDmg = GetRandom();
+                            Console.WriteLine($"Урон по {playerName} : {EnemyDmg}");
+                            Health -= EnemyDmg;
+                            Console.WriteLine($"У {playerName} осталось {Health}");
+                        }
+                        else
+                        {
+                            EnemyHealth += 4;
+                            Console.WriteLine($"Демагоргон получает 4 ЗАЩИТЫ теперь у него хр вот сколько: {EnemyHealth}");
+                        }
                     }
                     else
                     {
-                        EnemyHealth += 4;
-                        Console.WriteLine($"Демагоргон получает 4 ЗАЩИТЫ теперь у него хр вот сколько: {EnemyHealth}");
+                        Console.WriteLine("Он умер!");
                     }
                     Console.ReadLine();
                 }
@@ -56,7 +63,7 @@ namespace functiontest
 
         static string MeAttack ()
         {
-            return "ты атакуеш демагоргонов";
+            return "Tы атакуеш демагоргонов";
         }
         static string AttackEnemy (int enemyHealth)
         {
