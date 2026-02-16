@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\ClasssZomde\bin\Debug\net8.0\ClasssZomde.exe
+C:\vs npogpamu\-1\ClasssZomde\bin\Debug\net8.0\ClasssZomde.deps.json
+C:\vs npogpamu\-1\ClasssZomde\bin\Debug\net8.0\ClasssZomde.runtimeconfig.json
+C:\vs npogpamu\-1\ClasssZomde\bin\Debug\net8.0\ClasssZomde.dll
+C:\vs npogpamu\-1\ClasssZomde\bin\Debug\net8.0\ClasssZomde.pdb
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.AssemblyInfo.cs
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.sourcelink.json
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.dll
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\refint\ClasssZomde.dll
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.pdb
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ClasssZomde.genruntimeconfig.cache
+C:\vs npogpamu\-1\ClasssZomde\obj\Debug\net8.0\ref\ClasssZomde.dll

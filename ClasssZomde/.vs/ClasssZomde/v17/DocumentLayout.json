@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\classes\\",
+  "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\ClasssZomde\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A484E752-674A-4EA5-A3F2-1719BCA5765E}|classes.csproj|c:\\vs npogpamu\\-1\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A484E752-674A-4EA5-A3F2-1719BCA5765E}|classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D437D274-14A9-456E-8787-EB28F40B20D6}|ClasssZomde.csproj|c:\\vs npogpamu\\-1\\classszomde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D437D274-14A9-456E-8787-EB28F40B20D6}|ClasssZomde.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\vs npogpamu\\-1\\classes\\Program.cs",
+              "DocumentMoniker": "C:\\vs npogpamu\\-1\\ClasssZomde\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\vs npogpamu\\-1\\classes\\Program.cs",
+              "ToolTip": "C:\\vs npogpamu\\-1\\ClasssZomde\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAIwBYAAAAjAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwC8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:33:25.571Z",
+              "WhenOpened": "2026-02-16T16:43:52.856Z",
               "EditorCaption": ""
             }
           ]
