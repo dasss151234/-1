@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\bin\Debug\net8.0\bnjmxzdhlyvujkbgifo.exe
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\bin\Debug\net8.0\bnjmxzdhlyvujkbgifo.deps.json
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\bin\Debug\net8.0\bnjmxzdhlyvujkbgifo.runtimeconfig.json
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\bin\Debug\net8.0\bnjmxzdhlyvujkbgifo.dll
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\bin\Debug\net8.0\bnjmxzdhlyvujkbgifo.pdb
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.AssemblyInfo.cs
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.sourcelink.json
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.dll
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\refint\bnjmxzdhlyvujkbgifo.dll
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.pdb
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\bnjmxzdhlyvujkbgifo.genruntimeconfig.cache
+C:\vs npogpamu\-1\bnjmxzdhlyvujkbgifo\obj\Debug\net8.0\ref\bnjmxzdhlyvujkbgifo.dll
