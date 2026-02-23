@@ -1,0 +1,15 @@
+C:\vs npogpamu\-1\SHOP_V333333333333333\bin\Debug\net8.0\SHOP_V333333333333333.exe
+C:\vs npogpamu\-1\SHOP_V333333333333333\bin\Debug\net8.0\SHOP_V333333333333333.deps.json
+C:\vs npogpamu\-1\SHOP_V333333333333333\bin\Debug\net8.0\SHOP_V333333333333333.runtimeconfig.json
+C:\vs npogpamu\-1\SHOP_V333333333333333\bin\Debug\net8.0\SHOP_V333333333333333.dll
+C:\vs npogpamu\-1\SHOP_V333333333333333\bin\Debug\net8.0\SHOP_V333333333333333.pdb
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.AssemblyInfoInputs.cache
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.AssemblyInfo.cs
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.csproj.CoreCompileInputs.cache
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.sourcelink.json
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.dll
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\refint\SHOP_V333333333333333.dll
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.pdb
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\SHOP_V333333333333333.genruntimeconfig.cache
+C:\vs npogpamu\-1\SHOP_V333333333333333\obj\Debug\net8.0\ref\SHOP_V333333333333333.dll
