@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Iron Sword",
+    "Price": 100,
+    "Type": "Weapon",
+    "BonusHealth": 0,
+    "BonusDamage": 15
+  },
+  {
+    "Name": "Leather Armor",
+    "Price": 150,
+    "Type": "Armor",
+    "BonusHealth": 25,
+    "BonusDamage": 0
+  }
+]

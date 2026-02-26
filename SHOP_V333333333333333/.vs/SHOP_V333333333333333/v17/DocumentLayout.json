@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "Terminal.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Terminal.cs",
               "RelativeToolTip": "Terminal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:30:35.21Z",
               "IsPinned": true,
@@ -40,13 +48,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:31:13.673Z",
               "IsPinned": true,
@@ -54,15 +62,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:18:13.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "items.json",
+              "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\items.json",
+              "RelativeDocumentMoniker": "items.json",
+              "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\items.json",
+              "RelativeToolTip": "items.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T16:57:46.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:18:59.026Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
