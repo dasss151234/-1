@@ -6,6 +6,7 @@ namespace SHOP_V333333333333333
     {
         static void Main(string[] args)
         {
+            Player player = new Player(67, "seva");
             string json = File.ReadAllText(@"C:\vs npogpamu\-1\SHOP_V333333333333333\items.json");
             List<Item>? shopItems = JsonSerializer.Deserialize<List<Item>>(json,
             new JsonSerializerOptions
@@ -19,10 +20,8 @@ namespace SHOP_V333333333333333
                 return;
             }
 
-            foreach (var item in shopItems)
-            {
-                Console.WriteLine(item.Name+"-"+item.Price);
-            }
+            Terminal shop = new Terminal(player, shopItems);
+            shop.Start();       
         }
     }
 }
