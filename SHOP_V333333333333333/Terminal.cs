@@ -38,9 +38,48 @@
             {
                 ShowItems();
             }
+            if (input == "2")
+            {
+                BuyItems();
+            }
+            if (input == "3")
+            {
+
+            }
+            if (input == "0")
+            {
+                Environment.Exit(0);
+            }
         }
         void ShowItems()
         {
+            Console.Clear();
+            for (int i = 0; i < items.Count; i++)
+            {
+                Console.WriteLine(i + ": " + items[i].Name + " - " + items[i].Price);
+                
+            }
+            Console.ReadKey();
+        }
+        void BuyItems()
+        {
+            Console.Clear();
+            ShowItems();
+            Console.Write("Введите индекс товара:");
+            string text = Console.ReadLine();
+            if (!int.TryParse(text, out int index))
+            {
+                Console.WriteLine("ЧЕТЫ НАПИСАЛ?");
+                Console.ReadKey();
+                return;
+            }
+            if (index < 0 || index >= items.Count)
+            {
+                Console.WriteLine("Нет токого товара!!!");
+                Console.ReadKey();
+                return;
+            }
+            Item item = items[index];
 
         }
 

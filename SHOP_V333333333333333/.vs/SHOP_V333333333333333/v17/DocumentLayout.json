@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\shop_v333333333333333.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:shop_v333333333333333.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\shop_v333333333333333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:shop_v333333333333333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\shop_v333333333333333.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:shop_v333333333333333.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|c:\\vs npogpamu\\-1\\shop_v333333333333333\\shop_v333333333333333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{431580AA-A293-4A09-80F5-9C7E57449D5C}|SHOP_V333333333333333.csproj|solutionrelative:shop_v333333333333333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Terminal.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Terminal.cs",
               "RelativeDocumentMoniker": "Terminal.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Terminal.cs",
               "RelativeToolTip": "Terminal.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wCcAAAANAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwE8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:30:35.21Z",
               "IsPinned": true,
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T14:18:13.794Z",
               "IsPinned": true,
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "items.json",
               "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\items.json",
               "RelativeToolTip": "items.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-24T16:57:46.808Z",
               "IsPinned": true,
@@ -120,20 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SHOP_V333333333333333",
-              "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\SHOP_V333333333333333.csproj",
-              "RelativeDocumentMoniker": "SHOP_V333333333333333.csproj",
-              "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\SHOP_V333333333333333.csproj",
-              "RelativeToolTip": "SHOP_V333333333333333.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-27T17:28:16.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SHOP_V333333333333333",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\SHOP_V333333333333333.csproj",
               "RelativeDocumentMoniker": "SHOP_V333333333333333.csproj",
@@ -142,6 +129,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-27T17:27:26.342Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SHOP_V333333333333333.csproj",
+              "DocumentMoniker": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\SHOP_V333333333333333.csproj",
+              "RelativeDocumentMoniker": "SHOP_V333333333333333.csproj",
+              "ToolTip": "C:\\vs npogpamu\\-1\\SHOP_V333333333333333\\SHOP_V333333333333333.csproj",
+              "RelativeToolTip": "SHOP_V333333333333333.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T17:28:16.394Z"
             }
           ]
         }
