@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasssZomde")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4d89f3d8ca415ab4d1224443e8ca3b79a0e2d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab62ac7969fdfdeb450d61a148b46ee077bc741")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasssZomde")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasssZomde")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
