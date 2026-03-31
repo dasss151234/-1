@@ -1,0 +1,16 @@
+C:\Users\Сева\source\repos\WpfGame\bin\Debug\WpfGame.exe.config
+C:\Users\Сева\source\repos\WpfGame\bin\Debug\WpfGame.exe
+C:\Users\Сева\source\repos\WpfGame\bin\Debug\WpfGame.pdb
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.csproj.AssemblyReference.cache
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\MainWindow.g.cs
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\App.g.cs
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame_MarkupCompile.cache
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame_MarkupCompile.lref
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\MainWindow.baml
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.g.resources
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.Properties.Resources.resources
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.cache
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.csproj.CoreCompileInputs.cache
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.exe
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.pdb
+C:\Users\Сева\source\repos\WpfGame\obj\Debug\WpfGame.exe.config
