@@ -39,6 +39,5 @@ namespace WpfGame
             choicesList.SelectedItem = null;
             ShowScene(nextId);
         }
-            
     }
 }
