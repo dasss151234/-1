@@ -23,8 +23,7 @@ namespace WpfGame
         }
         private void ShowScene(string sceneId)
         {
-            _currentScene = _scenes[sceneId];
-            txtStory.Text = _currentScene.Text;
+           
         }
         private void SetBackground(string path)
         {
