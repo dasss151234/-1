@@ -30,3 +30,17 @@ C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.csproj.GenerateResource.cache
 C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.csproj.CoreCompileInputs.cache
 C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.exe
 C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.pdb
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Memory.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Text.Json.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Numerics.Vectors.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Buffers.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.IO.Pipelines.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.ValueTuple.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Text.Encodings.Web.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.csproj.SuggestedBindingRedirects.cache
+C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame.csproj.Up2Date
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\vs npogpamu\-1\WpfGame\bin\Debug\System.Threading.Tasks.Extensions.xml
