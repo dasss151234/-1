@@ -24,8 +24,7 @@ namespace WpfGame
         public MainWindow()
         {
             InitializeComponent();
-            //TestJson();
-            TestScene();
+            TestJson();
         }
         private void ShowScene(string sceneId)
         {
@@ -42,10 +41,6 @@ namespace WpfGame
                 });
             }
         }
-        private void TestScene()
-        {
-            ShowScene("Системный сбой");
-        }
         private void TestJson()
         {
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
@@ -54,7 +49,7 @@ namespace WpfGame
             MessageBox.Show(path); // ← смотрим куда смотрит программа
 
             _scenes = StoryLoader.Load(path);
-            ShowScene("start");
+            ShowScene("Системный сбой");
 
 
             // Проверка — выводим ID всех сцен
