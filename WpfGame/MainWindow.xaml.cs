@@ -28,7 +28,8 @@ namespace WpfGame
         }
         private void ShowScene(string sceneId)
         {
-           _currentScene = _scenes[sceneId];
+            //MessageBox.Show($"{sceneId}");
+            _currentScene = _scenes[sceneId];
             txtStory.Text = _currentScene.Text;
             SetBackground(_currentScene.Background);
             choicesList.Items.Clear();
@@ -46,7 +47,7 @@ namespace WpfGame
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
             string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
 
-            MessageBox.Show(path); // ← смотрим куда смотрит программа
+            //MessageBox.Show(path); // ← смотрим куда смотрит программа
 
             _scenes = StoryLoader.Load(path);
             ShowScene("Системный сбой");
@@ -67,10 +68,15 @@ namespace WpfGame
         }
         private void choicesList_SelectionChanged(object sender , SelectionChangedEventArgs e)
         {
-            if (!(choicesList.SelectedItem is ListBoxItem item))return;
+            var item = choicesList.SelectedItem as ListBoxItem;
+            if (item == null) 
+            {
+                return;
+            }
             string nextId = item.Tag.ToString();
-            choicesList.SelectedItem = null;
+            choicesList.SelectedItem = null; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
             ShowScene(nextId);
         }
     }
 }
+

@@ -16,7 +16,7 @@ namespace WpfGame
             try
             {
                 string json = System.IO.File.ReadAllText(path, System.Text.Encoding.UTF8);
-                MessageBox.Show(json);
+                //MessageBox.Show(json);
                 var root = JsonSerializer.Deserialize<StoryRoot>(json,
                     new JsonSerializerOptions
                     {
