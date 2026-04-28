@@ -26,10 +26,12 @@ namespace WpfGame
             InitializeComponent();
             TestJson();
         }
-        private bool _isUpdating = false;
+
+        //private bool _isUpdating = false;
+
         private void ShowScene(string sceneId)
         {
-            _isUpdating = true;
+            //_isUpdating = true;
             //MessageBox.Show($"{sceneId}");
             _currentScene = _scenes[sceneId];
             txtStory.Text = _currentScene.Text;
@@ -43,12 +45,13 @@ namespace WpfGame
                     Tag = choice.NextSceneId,
                 });
             }
-            _isUpdating = false;
+            //_isUpdating = false;
         }
         private void TestJson()
         {
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
-            string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
+            //string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
+            string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
 
             //MessageBox.Show(path); // ← смотрим куда смотрит программа
 
@@ -69,15 +72,26 @@ namespace WpfGame
             imgBackground.Source = new BitmapImage(new Uri(path, UriKind.Relative));
 
         }
-        private void choicesList_SelectionChanged(object sender , SelectionChangedEventArgs e)
+        private void choicesList_Click(object sender, MouseButtonEventArgs e)
+        {
+
+            var item = choicesList.SelectedItem as ListBoxItem;
+            if (item == null) return;
+
+            string nextId = item.Tag.ToString();
+            choicesList.SelectedItem = null;
+            ShowScene(nextId);
+        }
+        /*private void choicesList_SelectionChanged(object sender , SelectionChangedEventArgs e)
         {
             if (_isUpdating) return;
             var item = choicesList.SelectedItem as ListBoxItem;
             if (item == null) return;
             string nextId = item.Tag.ToString();
+            //MessageBox.Show($"'{nextId}'");  // ← что пытаемся открыть
             choicesList.SelectedItem = null; 
             ShowScene(nextId);
-        }
+        }*/
     }
 }
 

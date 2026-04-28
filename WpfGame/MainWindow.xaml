@@ -92,7 +92,7 @@
             <ListBox x:Name="choicesList"
                      Background="Transparent"
                      BorderThickness="0"
-                     SelectionChanged="choicesList_SelectionChanged">
+                     MouseLeftButtonUp="choicesList_Click">
 
                 <ListBoxItem Content="› Войти в лес"/>
                 <ListBoxItem Content="› Осмотреться"/>
