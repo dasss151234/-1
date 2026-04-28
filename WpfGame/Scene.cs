@@ -12,6 +12,10 @@ namespace WpfGame
         public string Text { get; set; }
         [JsonPropertyName("background")]
         public string Background { get; set; }
+        [JsonPropertyName("characterImage")]
+        public string characterImage { get; set; }
+        [JsonPropertyName("characterPosition")]
+        public string CharacterPosition {  get; set; }
         [JsonPropertyName("choices")]
         public List <Choice> Choices { get; set; }
        

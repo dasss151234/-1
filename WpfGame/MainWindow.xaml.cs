@@ -29,6 +29,23 @@ namespace WpfGame
 
         //private bool _isUpdating = false;
 
+        private void SetCharacter(string imagePath, string position)
+        {
+            imgCharacterLeft.Visibility = Visibility.Collapsed;
+            imgCharacterRight.Visibility = Visibility.Collapsed;
+            var bitmap = new BitmapImage(new Uri(imagePath,UriKind.Relative));
+            if (position == "left")
+            {
+                imgCharacterLeft.Source = bitmap;
+                imgCharacterLeft.Visibility = Visibility.Visible;
+            }
+            else if (position == "right") 
+            {
+                imgCharacterRight.Source = bitmap;
+                imgCharacterRight.Visibility = Visibility.Visible;
+            }
+
+        }
         private void ShowScene(string sceneId)
         {
             //_isUpdating = true;
@@ -36,6 +53,7 @@ namespace WpfGame
             _currentScene = _scenes[sceneId];
             txtStory.Text = _currentScene.Text;
             SetBackground(_currentScene.Background);
+            SetCharacter(_currentScene.characterImage, _currentScene.CharacterPosition);
             choicesList.Items.Clear();
             foreach (var choice in _currentScene.Choices)
             {
@@ -50,8 +68,8 @@ namespace WpfGame
         private void TestJson()
         {
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
-            //string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
-            string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
+            string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
+            //string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
 
             //MessageBox.Show(path); // ← смотрим куда смотрит программа
 

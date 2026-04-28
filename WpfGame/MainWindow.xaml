@@ -54,34 +54,46 @@
         <Grid Grid.Row="0" Margin="80,60,80,30">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
-                <!-- персонаж -->
+                <!-- Col 0: персонаж слева -->
                 <ColumnDefinition Width="*"/>
-                <!-- текст    -->
+                <!-- Col 1: текст -->
+                <ColumnDefinition Width="Auto"/>
+                <!-- Col 2: персонаж справа -->
             </Grid.ColumnDefinitions>
 
-            <!-- Персонаж -->
-            <Image x:Name="imgCharacter"
-                   Grid.Column="0"
-                   Width="340"
-                   Stretch="Uniform"
-                   VerticalAlignment="Bottom"
-                   Margin="0,0,50,0"/>
+            <!-- Персонаж слева -->
+            <Image x:Name="imgCharacterLeft"
+           Grid.Column="0"
+           Width="320"
+           Stretch="Uniform"
+           VerticalAlignment="Bottom"
+           Margin="0,0,40,0"
+           Visibility="Collapsed"/>
 
-            <!-- Текст сцены -->
+            <!-- Текст -->
             <Border Grid.Column="1"
-                    Background="#99000000"
-                    CornerRadius="12"
-                    Padding="50,40"
-                    VerticalAlignment="Center">
+            Background="#99000000"
+            CornerRadius="12"
+            Padding="50,40"
+            VerticalAlignment="Center">
                 <TextBlock x:Name="txtStory"
-                           Text="Вы стоите у входа в тёмный лес..."
-                           Foreground="#f0e6d3"
-                           FontSize="22"
-                           FontFamily="Georgia"
-                           TextWrapping="Wrap"
-                           LineHeight="38"/>
+                   Foreground="#f0e6d3"
+                   FontSize="22"
+                   FontFamily="Georgia"
+                   TextWrapping="Wrap"
+                   LineHeight="38"/>
             </Border>
+
+            <!-- Персонаж справа -->
+            <Image x:Name="imgCharacterRight"
+           Grid.Column="2"
+           Width="320"
+           Stretch="Uniform"
+           VerticalAlignment="Bottom"
+           Margin="40,0,0,0"
+           Visibility="Collapsed"/>
         </Grid>
+
 
 
         <!-- ══════ ROW 1 — список выборов ══════ -->
