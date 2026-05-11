@@ -3,7 +3,7 @@
     {
       "id": "Системный сбой",
       "text": "Тьма. Код ошибок. Последний фрагмент памяти — вспышка, и приказ который Коннор не дочитал до конца. Он лежит на полу какого-то подвала.",
-      "background": "assets/loooooool.png",
+      "background": "loooooool.png",
       "characterImage": "ConnorDetroit_(1).png",
       "characterPosition": "right",
       "choices": [
@@ -20,7 +20,7 @@
     {
       "id": "Незнакомка",
       "text": "Из тени выходит Ash. -Ты был почти мёртв. Я тебя починила.- Коннор видит лицо: девиант, активный. Угроза — неизвестно.",
-      "background": "",
+      "background": "i.png",
       "characterImage": "popopopoopopopo.png",
       "characterPosition": "left",
       "choices": [

@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\vs npogpamu\\-1\\WpfGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\vs npogpamu\\-1\\WpfGame\\bin\\Debug\\GameData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\GameData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|c:\\vs npogpamu\\-1\\wpfgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|c:\\vs npogpamu\\-1\\wpfgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -19,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:storyloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|C:\\vs npogpamu\\-1\\WpfGame\\storyroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F119B7-653F-4FBB-9744-696FCE708702}|WpfGame.csproj|solutionrelative:storyroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -56,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Scene.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\Scene.cs",
               "RelativeDocumentMoniker": "Scene.cs",
@@ -70,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\WpfGame\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDcAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T17:43:57.444Z",
               "IsPinned": true,
@@ -96,32 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StoryRoot.cs",
-              "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\StoryRoot.cs",
-              "RelativeDocumentMoniker": "StoryRoot.cs",
-              "ToolTip": "C:\\vs npogpamu\\-1\\WpfGame\\StoryRoot.cs",
-              "RelativeToolTip": "StoryRoot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:35:08.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameData.json",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\bin\\Debug\\GameData.json",
               "RelativeDocumentMoniker": "bin\\Debug\\GameData.json",
               "ToolTip": "C:\\vs npogpamu\\-1\\WpfGame\\bin\\Debug\\GameData.json",
               "RelativeToolTip": "bin\\Debug\\GameData.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-17T18:43:05.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -133,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StoryLoader.cs",
               "DocumentMoniker": "C:\\vs npogpamu\\-1\\WpfGame\\StoryLoader.cs",
               "RelativeDocumentMoniker": "StoryLoader.cs",
               "ToolTip": "C:\\vs npogpamu\\-1\\WpfGame\\StoryLoader.cs",
               "RelativeToolTip": "StoryLoader.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T17:35:08.46Z",
               "EditorCaption": ""

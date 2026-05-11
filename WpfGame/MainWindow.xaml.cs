@@ -33,7 +33,7 @@ namespace WpfGame
         {
             imgCharacterLeft.Visibility = Visibility.Collapsed;
             imgCharacterRight.Visibility = Visibility.Collapsed;
-            var bitmap = new BitmapImage(new Uri(imagePath,UriKind.Relative));
+            var bitmap = new BitmapImage(new Uri($"assets/{imagePath}",UriKind.Relative));
             if (position == "left")
             {
                 imgCharacterLeft.Source = bitmap;
@@ -87,7 +87,7 @@ namespace WpfGame
         private void SetBackground(string path)
         {
             if (string.IsNullOrEmpty(path)) return;
-            imgBackground.Source = new BitmapImage(new Uri(path, UriKind.Relative));
+            imgBackground.Source = new BitmapImage(new Uri($"assets/{path}", UriKind.Relative));
 
         }
         private void choicesList_Click(object sender, MouseButtonEventArgs e)
