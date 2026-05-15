@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfGame.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGame"
+        mc:Ignorable="d"
+        Title="Window1" Height="1080" Width="1920"
+        StartupUri="Window1.xaml">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="LOL_KEK"
+                       Foreground="#f0e6d3"
+                       FontSize="48"
+                       FontFamily="Georgia"
+                       Margin="0,0,0,60"
+                       HorizontalAlignment="Center"/>
+            <Button x:Name="btnPlay" Content="Запустить игру" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" MouseLeftButtonUp="btnPlay_MouseLeftButtonUp"/>
+            <Button x:Name="btnExit" Content="Выйти" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" MouseLeftButtonUp="btnExit_MouseLeftButtonUp"/>
+            
+        </StackPanel>
+    </Grid>
+</Window>

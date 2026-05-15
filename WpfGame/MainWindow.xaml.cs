@@ -23,6 +23,7 @@ namespace WpfGame
         private Dictionary<string, Scene> _scenes;
         public MainWindow()
         {
+            
             InitializeComponent();
             TestJson();
         }
@@ -68,13 +69,14 @@ namespace WpfGame
         private void TestJson()
         {
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
-            string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
+            //string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
             //string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
+            string path = @"C:\Users\Сева\Downloads\Telegram Desktop\game_story.json";
 
             //MessageBox.Show(path); // ← смотрим куда смотрит программа
 
             _scenes = StoryLoader.Load(path);
-            ShowScene("Системный сбой");
+            ShowScene("zadanie");
 
 
             // Проверка — выводим ID всех сцен
