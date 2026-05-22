@@ -11,7 +11,7 @@ namespace WpfGame
 {
     public class StoryLoader 
     { 
-        public static Dictionary<string,Scene> Load(string path)
+        public static (Dictionary<string,Scene>,MenuData) Load(string path )
         {
             try
             {
@@ -28,12 +28,12 @@ namespace WpfGame
                     dict[scene.Id] = scene;
                 }
 
-                return dict;
+                return (dict,root.Menu);
             }
             catch (Exception  ex) 
             {
                 MessageBox.Show(ex.Message);
-                return null;
+                return (null, null);
 
             }
 

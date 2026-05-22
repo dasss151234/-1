@@ -6,6 +6,8 @@ namespace WpfGame
 {
     public class StoryRoot
     {
+        [JsonPropertyName("menu")]
+        public MenuData Menu { get; set; }
         [JsonPropertyName("scenes")]
         public List<Scene> Scenes { get; set; }
     }

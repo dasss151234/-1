@@ -72,3 +72,5 @@ C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.csproj.CoreCompile
 C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.csproj.Up2Date
 C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.exe
 C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.pdb
+C:\vs npogpamu\-1\WpfGame\obj\Debug\Window1.g.cs
+C:\vs npogpamu\-1\WpfGame\obj\Debug\Window1.baml

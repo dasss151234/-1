@@ -16,18 +16,17 @@ using System.Windows.Shapes;
 
 namespace WpfGame
 {
-
     public partial class MainWindow : Window
     {
         private Scene _currentScene;
         private Dictionary<string, Scene> _scenes;
         public MainWindow()
         {
-            
+                     
             InitializeComponent();
             TestJson();
         }
-
+      
         //private bool _isUpdating = false;
 
         private void SetCharacter(string imagePath, string position)
@@ -69,14 +68,15 @@ namespace WpfGame
         private void TestJson()
         {
             //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
-            //string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
+            string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
             //string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
-            string path = @"C:\Users\Сева\Downloads\Telegram Desktop\game_story.json";
+            //string path = @"C:\Users\Сева\Downloads\Telegram Desktop\game_story.json";
 
             //MessageBox.Show(path); // ← смотрим куда смотрит программа
 
-            _scenes = StoryLoader.Load(path);
-            ShowScene("zadanie");
+            var (scenes, menu) = StoryLoader.Load(path);
+            _scenes = scenes;
+            ShowScene("Системный сбой");
 
 
             // Проверка — выводим ID всех сцен
@@ -89,7 +89,11 @@ namespace WpfGame
         private void SetBackground(string path)
         {
             if (string.IsNullOrEmpty(path)) return;
-            imgBackground.Source = new BitmapImage(new Uri($"assets/{path}", UriKind.Relative));
+
+            imgBackground.Source = new BitmapImage(
+                new Uri(path, UriKind.Relative)
+            );
+
 
         }
         private void choicesList_Click(object sender, MouseButtonEventArgs e)

@@ -6,18 +6,27 @@
         xmlns:local="clr-namespace:WpfGame"
         mc:Ignorable="d"
         Title="Window1" Height="1080" Width="1920"
-        StartupUri="Window1.xaml">
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        WindowState="Maximized">
+    
     <Grid>
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock Text="LOL_KEK"
-                       Foreground="#f0e6d3"
+        <!-- Фон -->
+        <Image x:Name="imgBackground"
+           Stretch="UniformToFill"/>
+        <!-- Затемнение -->
+        <Rectangle Fill="Black" Opacity="0.5"/>
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <TextBlock x:Name="txtTitle" Text="LOL_KEK"
+                       Foreground="Aqua"
                        FontSize="48"
-                       FontFamily="Georgia"
+                       FontFamily="Bauhaus 93" 
                        Margin="0,0,0,60"
                        HorizontalAlignment="Center"/>
-            <Button x:Name="btnPlay" Content="Запустить игру" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" MouseLeftButtonUp="btnPlay_MouseLeftButtonUp"/>
-            <Button x:Name="btnExit" Content="Выйти" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" MouseLeftButtonUp="btnExit_MouseLeftButtonUp"/>
-            
+            <Button x:Name="btnPlay" Content="Запустить игру" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" Click="btnPlay_Click"/>
+            <Button x:Name="btnExit" Content="Выйти" Width="300" Height="67" FontSize="25" FontFamily="Georgia" Margin="0,0,0,20" Click="btnExit_Click"/>
+
         </StackPanel>
     </Grid>
-</Window>
+</Window>   
