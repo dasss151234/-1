@@ -45,7 +45,7 @@
     {
       "id": "Убежище",
       "text": "Вы добрались до убежища...",
-      "background": "assets/bg.png",
+      "background": "i.png",
       "characterImage": "",
       "characterPosition": "none",
       "choices": []

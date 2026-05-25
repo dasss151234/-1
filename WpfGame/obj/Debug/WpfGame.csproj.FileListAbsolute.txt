@@ -74,3 +74,9 @@ C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.exe
 C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\obj\Debug\WpfGame.pdb
 C:\vs npogpamu\-1\WpfGame\obj\Debug\Window1.g.cs
 C:\vs npogpamu\-1\WpfGame\obj\Debug\Window1.baml
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\ConnorDetroit_(1).png
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\loooooool.png
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\popopopoopopopo.png
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\p.png
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\i.png
+C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame_Content.g.cs

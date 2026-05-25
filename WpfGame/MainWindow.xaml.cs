@@ -31,9 +31,12 @@ namespace WpfGame
 
         private void SetCharacter(string imagePath, string position)
         {
+            
             imgCharacterLeft.Visibility = Visibility.Collapsed;
             imgCharacterRight.Visibility = Visibility.Collapsed;
-            var bitmap = new BitmapImage(new Uri($"assets/{imagePath}",UriKind.Relative));
+            if (string.IsNullOrEmpty(imagePath)) return;
+            string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "assets", imagePath);
+            var bitmap = new BitmapImage(new Uri(path, UriKind.Absolute));
             if (position == "left")
             {
                 imgCharacterLeft.Source = bitmap;
@@ -83,18 +86,14 @@ namespace WpfGame
             foreach (var key in _scenes.Keys)
             {
                 System.Diagnostics.Debug.WriteLine(key);
-
+                
             }
         }
-        private void SetBackground(string path)
+        private void SetBackground(string imgName)
         {
-            if (string.IsNullOrEmpty(path)) return;
-
-            imgBackground.Source = new BitmapImage(
-                new Uri(path, UriKind.Relative)
-            );
-
-
+            if (string.IsNullOrEmpty(imgName)) return;
+            string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"assets",imgName);
+            imgBackground.Source = new BitmapImage(new Uri(path,UriKind.Absolute));
         }
         private void choicesList_Click(object sender, MouseButtonEventArgs e)
         {
