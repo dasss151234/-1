@@ -2,9 +2,6 @@
 
 namespace WpfGame
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public class Choice
     {
         [JsonPropertyName("label")]

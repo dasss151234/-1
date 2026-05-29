@@ -16,9 +16,6 @@ using System.Windows.Shapes;
 
 namespace WpfGame
 {
-    /// <summary>
-    /// Interaction logic for Window1.xaml
-    /// </summary>
     public partial class Window1 : Window
     {
         public Window1()

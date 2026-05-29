@@ -27,7 +27,6 @@ namespace WpfGame
             TestJson();
         }
       
-        //private bool _isUpdating = false;
 
         private void SetCharacter(string imagePath, string position)
         {
@@ -51,8 +50,6 @@ namespace WpfGame
         }
         private void ShowScene(string sceneId)
         {
-            //_isUpdating = true;
-            //MessageBox.Show($"{sceneId}");
             _currentScene = _scenes[sceneId];
             txtStory.Text = _currentScene.Text;
             SetBackground(_currentScene.Background);
@@ -66,23 +63,17 @@ namespace WpfGame
                     Tag = choice.NextSceneId,
                 });
             }
-            //_isUpdating = false;
         }
         private void TestJson()
         {
-            //string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"GameData.json");
             string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
             //string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
-            //string path = @"C:\Users\Сева\Downloads\Telegram Desktop\game_story.json";
-
-            //MessageBox.Show(path); // ← смотрим куда смотрит программа
 
             var (scenes, menu) = StoryLoader.Load(path);
             _scenes = scenes;
             ShowScene("Системный сбой");
 
 
-            // Проверка — выводим ID всех сцен
             foreach (var key in _scenes.Keys)
             {
                 System.Diagnostics.Debug.WriteLine(key);
@@ -105,16 +96,6 @@ namespace WpfGame
             choicesList.SelectedItem = null;
             ShowScene(nextId);
         }
-        /*private void choicesList_SelectionChanged(object sender , SelectionChangedEventArgs e)
-        {
-            if (_isUpdating) return;
-            var item = choicesList.SelectedItem as ListBoxItem;
-            if (item == null) return;
-            string nextId = item.Tag.ToString();
-            //MessageBox.Show($"'{nextId}'");  // ← что пытаемся открыть
-            choicesList.SelectedItem = null; 
-            ShowScene(nextId);
-        }*/
     }
 }
 
