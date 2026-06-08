@@ -100,19 +100,27 @@
 
         <!-- ══════ ROW 1 — список выборов ══════ -->
         <Border Grid.Row="1"
+                
                 Background="#CC000000"
                 Padding="80,10,80,20">
-
-            <ListBox x:Name="choicesList"
+            <Grid>
+                <ListBox x:Name="choicesList"
                      Background="Transparent"
                      BorderThickness="0"
                      MouseLeftButtonUp="choicesList_Click">
-
-                <ListBoxItem Content="› Войти в лес"/>
-                <ListBoxItem Content="› Осмотреться"/>
-                <ListBoxItem Content="› Уйти прочь"/>
-
-            </ListBox>
+                </ListBox>
+                <!-- Кнопка выхода скрыта по базе -->
+                <Button x:Name="btnExit"
+                    Content="Выйти в меню"
+                    Width="300" Height="60"
+                    FontSize="22"
+                    FontFamily="Georgia"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Visibility="Collapsed"
+                    Click="btnExit_Click"/>
+                
+            </Grid>
         </Border>
 
     </Grid>

@@ -46,6 +46,7 @@
       "id": "Убежище",
       "text": "Вы добрались до убежища...",
       "background": "i.png",
+      "IsEnding": true,
       "characterImage": "",
       "characterPosition": "none",
       "choices": []

@@ -24,7 +24,7 @@ namespace WpfGame
         {
                      
             InitializeComponent();
-            TestJson();
+            Start();
         }
       
 
@@ -50,28 +50,41 @@ namespace WpfGame
         }
         private void ShowScene(string sceneId)
         {
+
             _currentScene = _scenes[sceneId];
             txtStory.Text = _currentScene.Text;
             SetBackground(_currentScene.Background);
             SetCharacter(_currentScene.characterImage, _currentScene.CharacterPosition);
             choicesList.Items.Clear();
-            foreach (var choice in _currentScene.Choices)
+            if (_currentScene.IsEnding)
             {
-                choicesList.Items.Add(new ListBoxItem
-                {
-                    Content = $"{choice.Label}",
-                    Tag = choice.NextSceneId,
-                });
+                choicesList.Visibility = Visibility.Collapsed;
+                btnExit.Visibility = Visibility.Visible;
             }
+            else 
+            {
+                choicesList.Visibility = Visibility.Visible;
+                btnExit.Visibility = Visibility.Collapsed;
+
+                foreach (var choice in _currentScene.Choices)
+                {
+                    choicesList.Items.Add(new ListBoxItem
+                    {
+                        Content = $"{choice.Label}",
+                        Tag = choice.NextSceneId,
+                    });
+                }
+            }
+          
         }
-        private void TestJson()
+        private void Start()
         {
             string path = @"C:\vs npogpamu\-1\WpfGame\bin\Debug\GameData.json";
             //string path = @"C:\Users\Lenovo\Documents\GitHub\-1\WpfGame\bin\Debug\GameData.json";//комп макса
 
             var (scenes, menu) = StoryLoader.Load(path);
             _scenes = scenes;
-            ShowScene("Системный сбой");
+            ShowScene(_scenes.Values.First().Id);
 
 
             foreach (var key in _scenes.Keys)
@@ -96,6 +109,13 @@ namespace WpfGame
             choicesList.SelectedItem = null;
             ShowScene(nextId);
         }
+        private void btnExit_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 menu = new Window1();
+            menu.Show();
+            this.Close();
+        }
+
     }
 }
 

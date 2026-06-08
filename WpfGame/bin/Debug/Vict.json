@@ -1,0 +1,309 @@
+{
+  "menu": {
+    "title": "Кто хочет стать миллионером?",
+    "background": "main.jpg"
+  },
+  "scenes": [
+    {
+      "id": "Приветствие",
+      "text": "Приведствуем вас в нашем шоу 'Кто хочет стать миллионером?'",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "Вводим в курс дела"
+        }
+      ]
+    },
+    {
+      "id": "Вводим в курс дела",
+      "text": "В нашем шоу вы будите выбирать  правильный отовет к вопросам ну и все",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": ""
+        }
+      ]
+    },
+    {
+      "id": "5К",
+      "text": "И мы приступаем к 1 вопросу на 5 тыщ '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Правильно 5К"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        }
+      ]
+    },
+    {
+      "id": "25К",
+      "text": "И приступаем к 2 вопросу на 25 тыщ '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Правильно 25К"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        }
+      ]
+    },
+    {
+      "id": "100К",
+      "text": "Продолжаем, приступаем к 3 вопросу на 100 тыщ '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Правильно 100К"
+        }
+      ]
+    },
+    {
+      "id": "250К",
+      "text": "И приступаем к 4 вопросу на 250 тыщ '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Правильно 250К"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        }
+      ]
+    },
+    {
+      "id": "500К",
+      "text": "Продолжаем, приступаем к 4 вопросу на 500 тыщ '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Правильно 500К"
+        }
+      ]
+    },
+    {
+      "id": "1М",
+      "text": "И финальный вопрос на 1 миллион '..............................' думайте у вас 10 секунд время пошло.",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Неправильно"
+        },
+        {
+          "label": "",
+          "nextSceneId": "Правильно 1м"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 5К",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "25К"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 25К",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "Шутка прибаутка 1"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 100К",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "250К"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 250К",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "Шутка прибаутка 2"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 500К",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "1М"
+        }
+      ]
+    },
+    {
+      "id": "Правильно 1М",
+      "text": "И это был ПРАВИЛЬНЫЙ ответ!!!!!!!",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "ПОБЕДА"
+        }
+      ]
+    },
+    {
+      "id": "Неправильно",
+      "text": "И это был НЕПРАВИЛЬНЫЙ ответ :( :( не  растраивайтесь в следущий раз повезёт.",
+      "background": "",
+      "IsEnding": true,
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+      ]
+    },
+    {
+      "id": "Шутка прибаутка 1",
+      "text": "И у нас тут внезапная шутка '- Блин! - сказал слон, наступив на колобка.' хахаахахахаах ",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "100К"
+        }
+      ]
+    },
+    {
+      "id": "Шутка прибаутка 2",
+      "text": "И у нас тут внезапная шутка 'Купил самоклеящиеся обои. Сижу. Жду.' хахаахахахаах ",
+      "background": "",
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+        {
+          "label": "Продолжить",
+          "nextSceneId": "500К"
+        }
+      ]
+    },
+    {
+      "id": "ПОБЕДА67",
+      "text": "ПОЗДРОВЛЯЕМ ВЫ ПОБЕДИЛИ И ПОЛУЧАЕТЕ 1 МИЛЛИОН ФАНТИКОВ",
+      "background": "",
+      "IsEnding": true,
+      "characterImage": "",
+      "characterPosition": "left",
+      "choices": [
+      ]
+    }
+
+  ]
+}
