@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/connordetroit_(1).png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/kkk.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/main.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/screenshot_6.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/loooooool.png")]

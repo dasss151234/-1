@@ -81,3 +81,5 @@ C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\p.png
 C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\i.png
 C:\vs npogpamu\-1\WpfGame\obj\Debug\WpfGame_Content.g.cs
 C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\Screenshot_6.png
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\main.jpg
+C:\vs npogpamu\-1\WpfGame\bin\Debug\assets\kkk.png
